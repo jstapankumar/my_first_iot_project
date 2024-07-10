@@ -1,0 +1,1 @@
+this is a simple full fledged frontend + backend iot project to interact and control the IoT devices with the help of a common service entity server between the IoT device and the application entity i created.
